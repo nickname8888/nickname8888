@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on a bunch of Deep Learning projects 
 - 🌱 I’m currently learning Reinforcement Learning
 - 💬 Ask me about Machine Learning, Data Science, Deep Learning, or any tech related stuff
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/NeerajNerkar) | [E-mail](mailto:jayparmar7654321@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/NeerajNerkar) | [E-mail](mailto:neeraj.nerkar@gmail.com)
 
  
 
