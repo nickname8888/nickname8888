@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on Data Engineering projects. 
-- 🌱 I’m currently learning pyspark, DE concepts
+- 🌱 I’m currently learning PySpark, DE concepts
 - 💬 Ask me about Data Engineering, Machine Learning, Data Science, or any tech-related stuff
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/NeerajNerkar) | [E-mail](mailto:neeraj.nerkar@gmail.com)
 
