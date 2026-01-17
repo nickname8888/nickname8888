@@ -1,11 +1,12 @@
 ### Hello there, I am Neeraj Nerkar! 
 
+I work on research-driven machine learning projects, with a strong focus on deep learning for signals and structured data, including EEG-based seizure detection, time-series modeling, and computer vision. My interests lie in problems where data quality, modeling choices, and evaluation rigor directly impact outcomes.
 
+Alongside research, I have hands-on experience turning models into scalable, production-ready systems, building data pipelines and ML workflows that hold up in real environments. I care deeply about mathematical clarity, reproducibility, and clean implementations.
 
-- 🔭 I’m currently working on Data Engineering projects. 
-- 🌱 I’m currently learning PySpark, DE concepts
-- 💬 Ask me about Data Engineering, Machine Learning, Data Science, or any tech-related stuff
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/NeerajNerkar) | [E-mail](mailto:neeraj.nerkar@gmail.com)
+This GitHub hosts applied ML research, experimental prototypes, and system-level projects that bridge theory and practice.
+
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/NeerajNerkar) | [E-mail](mailto:neeraj.nerkar@gmail.com)
 
  
 
